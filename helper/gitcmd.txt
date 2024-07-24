@@ -2,3 +2,6 @@ git config --list
 
 $ git config --global user.name "Fulano de Tal"
 $ git config --global user.email fulanodetal@exemplo.br
+
+
+https://code.visualstudio.com/docs/sourcecontrol/overview
