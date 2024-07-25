@@ -26,3 +26,4 @@ const link = getExplorerLink("address", tokenMint.toString(), "devnet");
 console.log(`✅ Finished! Created token mint: ${link}`);
 
 //✅ Finished! Created token mint: https://explorer.solana.com/address/2Y7pKYnirWndY5nqGVdsvHnehcHnBKMFv2H7ptSuto1m?cluster=devnet
+// 2Y7pKYnirWndY5nqGVdsvHnehcHnBKMFv2H7ptSuto1m

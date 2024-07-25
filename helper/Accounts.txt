@@ -1,0 +1,7 @@
+user: DzBHG61yTGimgSk9t9yfc4JmJLbCLVLTzq6VaYyKS3Fo
+mint: 2Y7pKYnirWndY5nqGVdsvHnehcHnBKMFv2H7ptSuto1m
+token account(ATA): 8pZYzen9BNkLqFJUQ5L4ygZ5Cm6nzN9eHAc1dNktrsPk
+
+
+
+https://explorer.solana.com/tx/3v2B3ncfHQeKmbAfiTiF3ei3izT14xZsW18QeJKPG8B7wLKBCyWGVWacxUofcmtgXqZAfdDt264TsvbpSJtdscsS?cluster=devnet
