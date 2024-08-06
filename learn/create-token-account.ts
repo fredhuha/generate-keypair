@@ -40,4 +40,4 @@ const link = getExplorerLink(
 
 console.log(`✅ Created token Account: ${link}`);
 
-//8pZYzen9BNkLqFJUQ5L4ygZ5Cm6nzN9eHAc1dNktrsPk
+// 8pZYzen9BNkLqFJUQ5L4ygZ5Cm6nzN9eHAc1dNktrsPk

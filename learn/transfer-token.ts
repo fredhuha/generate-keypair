@@ -14,10 +14,10 @@ console.log(
 );
 
 // Add the recipient public key here.
-const recipient = new PublicKey("YOUR_RECIPIENT_HERE");
+const recipient = new PublicKey("9aRbQN5Gpj31RkrUyGYXoWsDeNMnznPpzozor9RgtpRP");
 
 // Subtitute in your token mint account
-const tokenMintAccount = new PublicKey("YOUR_TOKEN_MINT_ADDRESS_HERE");
+const tokenMintAccount = new PublicKey("2Y7pKYnirWndY5nqGVdsvHnehcHnBKMFv2H7ptSuto1m");
 
 // Our token has two decimal places
 const MINOR_UNITS_PER_MAJOR_UNITS = Math.pow(10, 2);
@@ -39,22 +39,16 @@ const destinationTokenAccount = await getOrCreateAssociatedTokenAccount(
   recipient
 );
 
-console.log(sourceTokenAccount.address);
-console.log(destinationTokenAccount.address);
-
 // Transfer the tokens
-/*
 const signature = await transfer(
   connection,
-  sender, // Payer
+  sender,
   sourceTokenAccount.address,
   destinationTokenAccount.address,
-  sender, // Owner
+  sender,
   1 * MINOR_UNITS_PER_MAJOR_UNITS
 );
 
 const explorerLink = getExplorerLink("transaction", signature, "devnet");
 
 console.log(`✅ Transaction confirmed, explorer link is: ${explorerLink}!`);
-
-*/

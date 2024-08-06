@@ -4,3 +4,4 @@ npm init -y
 npm install typescript @solana/web3.js esrun @solana-developers/helpers
 npm install typescript @solana/spl-token
 npm i @metaplex-foundation/mpl-token-metadata@2
+npm i "@metaplex-foundation/js"
