@@ -3,8 +3,9 @@ mint: 2Y7pKYnirWndY5nqGVdsvHnehcHnBKMFv2H7ptSuto1m
 token account(ATA): 8pZYzen9BNkLqFJUQ5L4ygZ5Cm6nzN9eHAc1dNktrsPk
 
 
+
+
 user2: 9aRbQN5Gpj31RkrUyGYXoWsDeNMnznPpzozor9RgtpRP
-tokenATAuser2: DdDpjoGgedkF7hMt5Lm3P3V34CQZHD9HnrACaviT2K15
 The secret key is:  Uint8Array(64) [
   150, 168,  39,  17, 209,  84, 128, 152,  63,  96, 122,
   141, 215, 186, 121, 101,  92, 162, 111,  21, 122, 174,
@@ -13,6 +14,8 @@ The secret key is:  Uint8Array(64) [
    21,  43, 131, 238, 167, 222,  61,  63,  55, 246,  66,
    61, 176,  12, 143,  95, 203, 227, 102,  10
 ]
+
+tokenATAuser2: DdDpjoGgedkF7hMt5Lm3P3V34CQZHD9HnrACaviT2K15
 
 
 https://explorer.solana.com/tx/3v2B3ncfHQeKmbAfiTiF3ei3izT14xZsW18QeJKPG8B7wLKBCyWGVWacxUofcmtgXqZAfdDt264TsvbpSJtdscsS?cluster=devnet

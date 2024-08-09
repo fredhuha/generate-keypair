@@ -3,6 +3,7 @@ import "dotenv/config"
 import {
   getKeypairFromFile,
   airdropIfRequired,
+  getExplorerLink,
   getKeypairFromEnvironment
 } from "@solana-developers/helpers";
 import {
